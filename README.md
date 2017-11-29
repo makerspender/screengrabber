@@ -1,5 +1,5 @@
 # screengrabber
-Using a CSV file with website links, this script grabs a screenshot of each site, adds title and website url and posts it all to WordPress
+Using a CSV file with website links, this script grabs a screenshot of each site, adds title and website url and posts it all to WordPress. Originating from my personal blog [here](https://pedersenmark.com/bulk-website-screenshot-poster-using-wordpress-xmlrpc/)
 
 ### Requirements
 This has so far only been tested on Windows 7 with Python 3.5 - some modifications might need to take place in order for this to work on other systems.
