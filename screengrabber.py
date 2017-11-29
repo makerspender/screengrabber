@@ -15,7 +15,7 @@ htmlcontent = []
 
 for idx, val in enumerate(lines):
     # CHANGE THIS VARIABLE TO YOUR CORRECT SYSTEM FOLDER BUT DONT CHANGE THE LAST BIT
-    imagelocation = "C:/Users/maker/grabr/img/%s.jpg" %idx
+    imagelocation = "C:/CHANGE/THIS/PATH/img/%s.jpg" %idx
     # Getting website url from csv file
     driver.get(val)
     # Waiting to make sure everything is ready
